@@ -1,0 +1,12 @@
+2026-02-12 12:41:43,853 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:41:44,789 - INFO - Response: {}
+2026-02-12 12:43:42,439 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:43:43,929 - INFO - Response: {}
+2026-02-12 12:44:00,351 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:44:01,361 - INFO - Response: {}
+2026-02-12 12:47:08,011 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:47:09,498 - INFO - Response: {}
+2026-02-12 12:49:35,736 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:49:36,778 - ERROR - APIError(code=-2014): API-key format invalid.
+2026-02-12 12:53:32,897 - INFO - Placing order: BTCUSDT BUY MARKET
+2026-02-12 12:53:34,338 - ERROR - APIError(code=-2014): API-key format invalid.
